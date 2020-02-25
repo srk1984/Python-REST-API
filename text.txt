@@ -1,0 +1,276 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJI-4AIK0MkFQR8gTYxeqQA14",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJQWCmo89rkFQRZQfQ6oJUz7o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 47.6739826,
+               "lng" : -122.1214954
+            },
+            "southwest" : {
+               "lat" : 47.6101497,
+               "lng" : -122.2016809
+            }
+         },
+         "copyrights" : "Map data ©2020 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12781
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 943
+               },
+               "end_address" : "Bellevue, WA, USA",
+               "end_location" : {
+                  "lat" : 47.6101497,
+                  "lng" : -122.2015155
+               },
+               "start_address" : "Redmond, WA, USA",
+               "start_location" : {
+                  "lat" : 47.6739826,
+                  "lng" : -122.1215448
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 47.6723305,
+                        "lng" : -122.1215196
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e164th Ave NE\u003c/b\u003e toward \u003cb\u003eRedmond Way\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ki~aHrzjhV@?DC@?D?D?|@CP?N?\\?j@?`B@T?P@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6739826,
+                        "lng" : -122.1215448
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 47.67274949999999,
+                        "lng" : -122.1235164
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eNE 76th St\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "a_~aHnzjhV?F@D@B@B@@B?a@rCWbBGZS|@Id@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6723305,
+                        "lng" : -122.1215196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 595
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 47.6693704,
+                        "lng" : -122.1295596
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNE Leary Way\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ua~aH~fkhVx@t@JHLPXh@p@fBr@jCh@lB|@zCf@tAJPJPNTNVLR@BLPV^?@LPFJFLNVl@dALTDFRp@h@|@b@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 47.67274949999999,
+                        "lng" : -122.1235164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.0 mi",
+                        "value" : 8031
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 338
+                     },
+                     "end_location" : {
+                        "lat" : 47.6327239,
+                        "lng" : -122.1888144
+                     },
+                     "html_instructions" : "Take the ramp onto \u003cb\u003eWA-520 W\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ql}aHvllhVbAb@@@RDF@@?F@D?F?D?XATEDANIRKVSVU?A^Y^YJGJCJAJAJ?H@HBF@B@HDFBPNHJFHBF@DDJDLDLRj@BJVp@\\~@j@xATf@\\r@R^Vb@b@v@JNPRFHHHfApAB@@@B@PHr@v@PPrBzAd@Zn@^ZN|Ar@zDbB^PbC~@nBv@j@XpJdED?tD`BpAf@b@Nf@NpA\\z@PbAPv@JnANL?r@Dt@D\\?zB?xAEbAEtAOd@GnB]z@UDAnBi@DC`A[rD{AjDmAlCaAvIgDl@SBAb@O|@]XG|@Uf@Mv@MrAQz@Gz@Av@?v@@t@Bp@BRBz@JjB\\l@P^Nt@\\p@Vt@Zd@R|@d@TP^Tj@^d@b@v@r@z@r@n@t@t@z@\\f@VZ^j@f@|@b@z@zDbITh@Xj@pBdEVh@NXlAfCDJx@dBhA~B~AbDrDxHfClFf@`Ad@`Az@hBv@dBXr@JVLb@v@~BHVTz@V~@VhARdAb@~BD\\^vCRbC?@RjCHxBBnABbC?J?bAA~@CbA?`@Cv@GdAA`@]xGkAzUGpB?RA`A@jB@fABr@NtEJfD?@?B@?DnBFxA@p@?V@hAArAA`AEjAARK|AIz@Gl@Kx@AFUbBU|AKr@EVu@bFm@hEADW~AAF?@?@YvBuArJWnBU|BGx@AVEj@GfAKpCA^?HAhA?`BD~CDpD@r@DvD?T@R@^?R?J?`@?LA|@Ev@GfACb@Il@ANMdA[~A[pAa@jA"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6693704,
+                        "lng" : -122.1295596
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 47.6322911,
+                        "lng" : -122.1881444
+                     },
+                     "html_instructions" : "Take the \u003cb\u003eInterstate 405 S\u003c/b\u003e exit toward \u003cb\u003eRenton\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "ogvaH`_xhVEAC?A?C@ABGJU^]h@CBEDGFIDGDGBG@G?I?A?E?GCGCGEGGGGCGEIEKCMAKAKAM?K?I@M@KBM@IBIDKBGDGFIHGFEFE@AFCFCFCJCHALAHAH?J@P@j@FHBF@@?H@J@HBB?^I"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6327239,
+                        "lng" : -122.1888144
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1725
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 47.6168096,
+                        "lng" : -122.1889578
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eI-405 S\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "ydvaHzzwhVRDPDTB`@Fz@Lz@HZBPBn@FpAJ@@t@Hn@Jx@FnBLF@`BHnCJvE?rC?dD@zCB\\?jI?fDAP?jCAdA?pA@hE@z@Dr@DvA@|FA"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6322911,
+                        "lng" : -122.1881444
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 349
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 47.6136772,
+                        "lng" : -122.1891212
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e13A\u003c/b\u003e for \u003cb\u003eNortheast 4th St\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "adsaH~_xhVh@LjDJjBFZ@j@@H?V?@?l@?jAA^Ah@A"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6168096,
+                        "lng" : -122.1889578
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 920
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 47.6138482,
+                        "lng" : -122.2013575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNE 4th St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "opraH~`xhVAJEPAPCXCX?^A\\@H@J@JBT?bC@^?T?J?h@?D?n@?TAhB?bCAx@Aj@?J@J?b@AjAC|C?`BC~CCt@GhDAv@AhBAD@rA?t@@`C?V?P?~@Ah@@N?h@@zC"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6136772,
+                        "lng" : -122.1891212
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 445
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 47.6101497,
+                        "lng" : -122.2015155
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBellevue Way NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by MOD Pizza (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qqraHnmzhVEJADAR?XT?vBCx@AtAAxAAr@Ax@?X?NAL?RML?^A^?~@Ab@?H?"
+                     },
+                     "start_location" : {
+                        "lat" : 47.6138482,
+                        "lng" : -122.2013575
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ki~aHrzjhVNCtACzD@f@@@LHHy@vF[xAId@x@t@XZXh@p@fB|AxF|@zCf@tAVb@n@dAr@dAlAvBR\\Rp@h@|@b@p@bAb@@@d@Hl@AZGb@UnAeAj@a@VEVARD\\LZZJPRl@lAhD`A`Cp@rAz@zA\\b@|AfBDBPHr@v@dClBtAz@tIxDrFvB|K~EzD`BtBv@xBl@~Bb@fCZ`ADrADzB?xAEbAEtAOtCe@`AWtBm@tFwBxHoCdK{D~Bw@dBc@jC_@vBInB@fBFnANjB\\l@PtAl@fBr@bBx@t@f@j@^d@b@rBfBdBpBt@bAfAhBnGtMfFpKrR`a@rBnEd@jAdBvFn@hCv@dEd@tDRdC\\dGFrEErEM`EiBt^GdC?lDDzBZ~JNlE@hA?|CGlCMpB_@jD{D`XAJoBjNWnBU|BIpAMrBMzDAjDJpIHtG@`BAjAM~B]fDw@pDa@jAEAE?ED_AxA_@XWDYCOIOOSk@Eq@Fq@Ng@^_@PKd@Ml@AfBRLB^IRDf@H|ATxCXhCVhBRvBNpFTjJ?`IDhJ?jKCzGBnBJtI?h@LjDJfCHt@@rCAhACG\\IdB?f@BVBT?bC@t@?jBC|H?fBIjNO`K@pGArC@x@@zCEJCX?XT?pDEnDCvCCL?RMl@AlCA"
+         },
+         "summary" : "WA-520 W",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
