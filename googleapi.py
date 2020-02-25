@@ -5,7 +5,7 @@ from html.parser import HTMLParser
 from bs4 import BeautifulSoup
 
 #google directions developer api_key
-api_key = 'AIzaSyAvRcdDBKiaAe1HDPnc5-leffuFnBHzSPI'  
+api_key = ''  
 
 url = 'https://maps.googleapis.com/maps/api/directions/json&'
 print("\n\n\t\t\t DISPLAYS DISTANCE AND ROUTE BETWEEN TWO PLACES")
